@@ -1,0 +1,9 @@
+C:\Users\Math\source\repos\VerbSpam\bin\Debug\VerbSpam.exe.config
+C:\Users\Math\source\repos\VerbSpam\bin\Debug\VerbSpam.exe
+C:\Users\Math\source\repos\VerbSpam\bin\Debug\VerbSpam.pdb
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.csprojAssemblyReference.cache
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.Form1.resources
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.Properties.Resources.resources
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.csproj.GenerateResource.cache
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.exe
+C:\Users\Math\source\repos\VerbSpam\obj\Debug\VerbSpam.pdb
